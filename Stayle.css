@@ -1,0 +1,145 @@
+.titulo1{
+  font-family: cursive;
+  font-size: x-large;
+  text-transform: capitalize;
+  color: brown;
+  text-align: center;
+  transform: scale(1);
+  transition-duration: .75s;
+  
+}
+
+.titulo1:hover{
+    transform: scale(1.5);
+}
+.iconos {
+    position: absolute;
+    right: 20px;
+    gap: 25px;
+    display: flex;
+    margin-right: 200px;
+        }
+
+.iconos img{
+    height: 30px;
+    width: 30px;
+}
+
+nav{
+    background-color: rgb(223, 153, 118);
+    margin:10px;
+    padding:10px;
+    color: white;
+    font-size: medium;
+    text-align: center;
+}
+
+.titulo2{
+font-size: x-large;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+color:white;
+background-image: url(libros\ fondo.jpg);
+padding: 80px;
+font-size: cover;
+text-align: center;
+
+}
+
+.tr {
+    transform: scale(1);
+    transition-duration: .75s;
+}
+.tr:hover{
+    transform: scale(1.5);
+}
+
+
+aside{
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-size-adjust: 30px;
+}
+
+
+h2{
+    color:rgb(128, 3, 3);
+
+}
+
+.sub{
+    color:rgb(128, 3, 3);
+    text-align: center;
+    font-weight: 200px;
+    
+}
+
+.R1{
+    display: flex;
+    height: 600px;
+    align-items: center;
+    gap: 100px;   
+}
+.R1 img{
+    transform: scale(1);
+    transition-duration: .75s;
+    
+    
+}
+.R1 img:hover{
+    transform: scale(1.5);
+}
+
+
+
+.R2{
+    display: flex;
+    height: 400px;
+    text-align: center;
+    gap: 100px;
+    overflow-x: scroll;
+   
+    
+}
+
+.R3{
+    display: flex;
+    text-align: left;
+    height: 300px;
+   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+    
+}
+
+
+.aimg{
+    flex: 1;
+    gap: 30px;
+    margin: 30px;
+}
+footer{
+    
+    
+    background-color: rgb(223, 153, 118);
+   
+.iconos2 img{
+        height: 15px;
+        width: 15px;
+    
+}
+.img centro{
+    text-align: center;
+    height: 20px;
+    width: 20px;
+}
+    
+}
+.pie{
+    display: flex;
+    gap: 25px;
+   
+    
+}
+
+.pie2{
+    text-align: center;
+}
